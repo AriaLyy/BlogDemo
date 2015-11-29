@@ -34,4 +34,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
+    <Button
+        android:text="系统默认格式"
+        android:onClick="onClick"
+        android:id="@+id/default_log"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>

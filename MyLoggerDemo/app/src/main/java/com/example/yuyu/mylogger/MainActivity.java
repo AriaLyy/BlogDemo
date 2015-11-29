@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
-
+    private static final String TAG = "MainActivity";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -42,11 +42,18 @@ public class MainActivity extends AppCompatActivity {
             case R.id.map:
                 printMap();
                 break;
+            case R.id.default_log:
+                printSystemDefaultLog();
+                break;
         }
     }
 
+    private void printSystemDefaultLog(){
+        L.d(TAG, "系统默认格式");
+    }
+
     private void printOrdinaryStr() {
-        L.d("我是测试");
+        L.d("带详情信息的Log");
     }
 
     private void printJson() {

@@ -6,6 +6,10 @@
 
 打印带有详情信息的Log日志
 ---
+带有详情信息的Log日志效果
+<br>
+![GitHub](https://github.com/AriaLyy/BlogDemo/blob/master/MyLoggerDemo/img/detail_log.png "GitHub,Social Coding")
+<br>
 * 打印普通详情Log
   - L.d(String msg)
   - L.i(String msg)
@@ -17,6 +21,10 @@
 
 打印普通Log日志
 ---
+普通Log日志效果
+<br>
+![GitHub](https://github.com/AriaLyy/BlogDemo/blob/master/MyLoggerDemo/img/system_default_log_style.png "GitHub,Social Coding")
+<br>
   - L.d(String tag, String msg)
   - L.i(String tag, String msg)
   - ...

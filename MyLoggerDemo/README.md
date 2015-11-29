@@ -7,15 +7,16 @@
 打印带有详情信息的Log日志
 ---
 * 打印普通详情Log
-  -L.d(String msg)
-  -L.i(String msg)
-  -...
-*打印Json
-  -L.j(String jsonStr)
-*打印Map
-  -L.m(Map map)
+  - L.d(String msg)
+  - L.i(String msg)
+  - ...
+* 打印Json
+  - L.j(String jsonStr)
+* 打印Map
+  - L.m(Map map)
 
 打印普通Log日志
-  -L.d(String tag, String msg)
-  -L.i(String tag, String msg)
-  -...
+---
+  - L.d(String tag, String msg)
+  - L.i(String tag, String msg)
+  - ...

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.yuyu.navigationbardemo.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/navigation" />
+
+    <RadioGroup
+        android:id="@+id/navigation"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white"
+        android:orientation="horizontal">
+        <!--android:drawableTop="@mipmap/ic_launcher"-->
+        <!--top的图片直接设置选择器的了，选择器状态state-->
+        <RadioButton
+            style="@style/MainRadioButtonStyle"
+            android:tag="0"
+            android:text="红色" />
+
+        <RadioButton
+            style="@style/MainRadioButtonStyle"
+            android:tag="1"
+            android:text="蓝色" />
+
+        <RadioButton
+            style="@style/MainRadioButtonStyle"
+            android:tag="2"
+            android:text="绿色" />
+
+        <RadioButton
+            style="@style/MainRadioButtonStyle"
+            android:tag="3"
+            android:text="黄色" />
+    </RadioGroup>
+
+</RelativeLayout>

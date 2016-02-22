@@ -5,4 +5,4 @@
 <br>
 **注意！！该方法只能在android L 之后又效果**
 #效果图
-![GitHub](https://github.com/AriaLyy/BlogDemo/blob/master/SlidingActivityDeno/img/sldingActivity.gif "GitHub,Social Coding")
+![GitHub](https://github.com/AriaLyy/BlogDemo/blob/master/SlidingActivityDemo/img/sldingActivity.gif "GitHub,Social Coding")

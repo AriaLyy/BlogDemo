@@ -4,7 +4,7 @@
 * [侧滑关闭Activity](https://github.com/AriaLyy/BlogDemo/tree/master/SlidingActivityDemo)
 * [简单的日志打印](https://github.com/AriaLyy/BlogDemo/tree/master/MyLoggerDemo)
 * [最简单的导航栏实现](https://github.com/AriaLyy/BlogDemo/tree/master/NavigationBarDemo)
-* 
+* [boss直聘页面跳转效果](https://github.com/AriaLyy/BlogDemo/tree/master/BossTransfer)
 
 License
 -------

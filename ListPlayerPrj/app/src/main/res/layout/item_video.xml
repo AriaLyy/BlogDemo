@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:focusable="true"
+    >
+
+  <TextureView
+      android:id="@+id/video"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+
+  <ProgressBar
+      android:id="@+id/pb"
+      android:layout_width="wrap_content"
+      android:layout_height="200dp"
+      android:layout_centerInParent="true"
+      />
+
+  <ImageView
+      android:visibility="invisible"
+      android:id="@+id/img"
+      android:layout_width="match_parent"
+      android:layout_height="200dp"
+      />
+
+</RelativeLayout>

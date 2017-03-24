@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">ListPlayerPrj</string>
+  <array name="imgs">
+    <item>http://pic.sc.chinaz.com/files/pic/pic9/201401/apic3188.jpg</item>
+    <item>http://img05.tooopen.com/images/20141208/sy_76613841189.jpg</item>
+    <item>http://www.trip5.hk/Upload/2bc33876977b479c993c8d28b3e12eed.jpg</item>
+    <item>http://s2.buzzhand.net/uploads/4b/a/758292/14366857171227.jpg</item>
+    <item>http://img06.tooopen.com/images/20161010/tooopen_sy_181352973287.jpg</item>
+    <item>http://img05.tooopen.com/images/20150830/tooopen_sy_140703593676.jpg</item>
+  </array>
+</resources>

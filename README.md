@@ -1,10 +1,12 @@
 # BlogDemo
-[MyBlog](http://blog.csdn.net/qwe511455842?viewmode=contents)
-* [IOC框架](http://blog.csdn.net/qwe511455842/article/details/48845195)
+[MyBlog](http://www.laoyuyu.me/)
+* [IOC框架](https://github.com/AriaLyy/MVVM)
 * [侧滑关闭Activity](https://github.com/AriaLyy/BlogDemo/tree/master/SlidingActivityDemo)
 * [简单的日志打印](https://github.com/AriaLyy/BlogDemo/tree/master/MyLoggerDemo)
 * [最简单的导航栏实现](https://github.com/AriaLyy/BlogDemo/tree/master/NavigationBarDemo)
 * [boss直聘页面跳转效果](https://github.com/AriaLyy/BlogDemo/tree/master/BossTransfer)
+* [列表播放视频实现](https://github.com/AriaLyy/BlogDemo/tree/master/ListPlayerPrj)
+* [android多线程断点续传框架](https://github.com/AriaLyy/Aria)
 
 License
 -------

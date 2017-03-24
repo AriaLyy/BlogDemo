@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:focusable="true"
+    >
+
+  <ImageView
+      android:id="@+id/img"
+      android:layout_width="match_parent"
+      android:layout_height="200dp"
+      app:srcCompat="@color/colorAccent"
+      />
+</LinearLayout>

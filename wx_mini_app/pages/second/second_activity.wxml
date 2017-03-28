@@ -1,0 +1,6 @@
+<!--pages/second/second_activity.wxml-->
+<view class="container">
+    <view class="usermotto" bindtap="showToast">
+        <text class="user-motto">{{myData}}</text>
+    </view>
+</view>

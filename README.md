@@ -6,8 +6,9 @@
 * [最简单的导航栏实现](https://github.com/AriaLyy/BlogDemo/tree/master/NavigationBarDemo)
 * [boss直聘页面跳转效果](https://github.com/AriaLyy/BlogDemo/tree/master/BossTransfer)
 * [列表播放视频实现](https://github.com/AriaLyy/BlogDemo/tree/master/ListPlayerPrj)
-* [android多线程断点续传框架](https://github.com/AriaLyy/Aria)
 * [微信小程序](https://github.com/AriaLyy/BlogDemo/tree/master/wx_mini_app)
+* [AIDL](https://github.com/AriaLyy/BlogDemo/tree/master/AIDLDemo)
+* [android多线程断点续传框架](https://github.com/AriaLyy/Aria)
 
 License
 -------

@@ -1,5 +1,5 @@
 # BlogDemo
-[MyBlog](http://www.laoyuyu.me/)
+[我的Blog](http://www.laoyuyu.me/)
 * [IOC框架](https://github.com/AriaLyy/MVVM)
 * [侧滑关闭Activity](https://github.com/AriaLyy/BlogDemo/tree/master/SlidingActivityDemo)
 * [简单的日志打印](https://github.com/AriaLyy/BlogDemo/tree/master/MyLoggerDemo)
@@ -8,8 +8,8 @@
 * [列表播放视频实现](https://github.com/AriaLyy/BlogDemo/tree/master/ListPlayerPrj)
 * [微信小程序](https://github.com/AriaLyy/BlogDemo/tree/master/wx_mini_app)
 * [AIDL](https://github.com/AriaLyy/BlogDemo/tree/master/AIDLDemo)
-* [android多线程断点续传框架](https://github.com/AriaLyy/Aria)
-
+* [Adnroid下载框架](https://github.com/AriaLyy/Aria)
+* [Aria 简单示例](https://github.com/AriaLyy/BlogDemo/tree/master/Aria/SimpleDemo)
 License
 -------
 

@@ -10,7 +10,7 @@
 * [AIDL](https://github.com/AriaLyy/BlogDemo/tree/master/AIDLDemo)
 * [Adnroid下载框架](https://github.com/AriaLyy/Aria)
 * [Aria 简单示例](https://github.com/AriaLyy/BlogDemo/tree/master/Aria/SimpleDemo)
-* [滴滴VirtualApk框架测试](https://github.com/AriaLyy/BlogDemo/tree/master/Aria/VirtualApkTest)
+* [滴滴VirtualApk框架测试](https://github.com/AriaLyy/BlogDemo/tree/master/VirtualApkTest)
 
 License
 -------

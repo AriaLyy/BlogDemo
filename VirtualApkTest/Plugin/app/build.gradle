@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+  compileSdkVersion 22
+  buildToolsVersion "23.0.3"
+  defaultConfig {
+    applicationId "com.waye.plugin"
+    minSdkVersion 15
+    targetSdkVersion 15
+    versionCode 1
+    versionName "1.0"
+    testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+  }
+  buildTypes {
+    debug {
+      minifyEnabled false
+      shrinkResources false
+      proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+    }
+    release {
+      minifyEnabled true
+      shrinkResources false
+      proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+    }
+  }
+}
+
+dependencies {
+  compile fileTree(dir: 'libs', include: ['*.jar'])
+  compile 'com.android.support:appcompat-v7:22.2.0'
+  compile 'com.didi.virtualapk:core:0.9.1'
+}
+
+apply plugin: 'com.didi.virtualapk.plugin'
+
+virtualApk {
+  packageId = 0x5f // the package id of Resources.
+  targetHost = 'C:/Users/utstarcom/Desktop/VR_TEST/PluginTestMain/app' // the path of application module in host project.
+  applyHostMapping = true //optional, default value: true.
+}

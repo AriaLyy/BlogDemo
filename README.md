@@ -12,6 +12,7 @@
 * [Aria 简单示例](https://github.com/AriaLyy/BlogDemo/tree/master/Aria/SimpleDemo)
 * [滴滴VirtualApk框架测试](https://github.com/AriaLyy/BlogDemo/tree/master/VirtualApkTest)
 * [ijkplayer 视频流](https://github.com/AriaLyy/BlogDemo/tree/master/FlowVideoTest)
+* [jni动态注册](https://github.com/AriaLyy/BlogDemo/tree/master/ndk_study
 
 License
 -------

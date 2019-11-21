@@ -14,6 +14,7 @@
 * [ijkplayer 视频流](https://github.com/AriaLyy/BlogDemo/tree/master/FlowVideoTest)
 * [jni动态注册](https://github.com/AriaLyy/BlogDemo/tree/master/ndk_study)
 * [TextView加载Html](https://github.com/AriaLyy/BlogDemo/tree/master/HtmlTest)
+* [Android 沙盒模型](https://github.com/AriaLyy/BlogDemo/tree/master/SandBox)
 
 License
 -------
